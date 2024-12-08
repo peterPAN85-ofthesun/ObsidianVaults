@@ -1,0 +1,10 @@
+{
+  "theme": "obsidian",
+  "cssTheme": "Minimal",
+  "nativeMenus": false,
+  "enabledCssSnippets": [
+    "Properties",
+    "BannersFixProperties",
+    "BannersHideProperties"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "types": {
+    "aliases": "aliases",
+    "cssclasses": "multitext",
+    "tags": "tags",
+    "Date": "date",
+    "DateCreation": "date",
+    "WorkInProgress": "checkbox",
+    "HyperLinl": "multitext",
+    "Effect": "text",
+    "CurrentWindow": "text",
+    "Internal Sources": "multitext",
+    "CurrentMode": "text"
+  }
+}

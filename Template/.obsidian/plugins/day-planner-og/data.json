@@ -1,0 +1,23 @@
+{
+  "customFolder": "Day Planners",
+  "mode": 2,
+  "mermaid": false,
+  "notesToDates": [
+    {
+      "notePath": "Day Planners/2024-11-30.md",
+      "date": "Sat Nov 30 2024"
+    }
+  ],
+  "completePastItems": true,
+  "circularProgress": true,
+  "nowAndNextInStatusBar": true,
+  "showTaskNotification": true,
+  "timelineZoomLevel": 4,
+  "timelineIcon": "calendar-with-checkmark",
+  "plannerLabel": "Day Planner",
+  "breakLabel": "BREAK",
+  "endLabel": "END",
+  "markCurrent": true,
+  "correctLabels": true,
+  "preserveValues": "-"
+}

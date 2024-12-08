@@ -1,0 +1,18 @@
+/* 
+Show Properties in reading mode by default.
+Use "hide_properties" in `css_classes` property to hide them.
+============================================================= */
+.workspace-leaf-content[data-mode="preview"]
+.markdown-preview-view.hide_properties
+.metadata-container{
+    display: none;
+}
+
+/* Show "Add property" button in reading mode by default.
+Add "hide_add_property_btn" to `css_classes` property to hide it.
+================================================================= */
+.workspace-leaf-content[data-mode="preview"]
+.markdown-preview-view.hide_add_property_btn
+.metadata-add-button {
+    display: none;
+}

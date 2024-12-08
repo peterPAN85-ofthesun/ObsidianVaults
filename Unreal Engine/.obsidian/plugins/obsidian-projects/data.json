@@ -1,0 +1,175 @@
+{
+  "version": 2,
+  "projects": [
+    {
+      "fieldConfig": {
+        "Type": {
+          "options": [
+            "Tuto"
+          ]
+        }
+      },
+      "defaultName": "",
+      "templates": [],
+      "excludedNotes": [],
+      "isDefault": false,
+      "dataSource": {
+        "kind": "folder",
+        "config": {
+          "path": "02.Areas",
+          "recursive": true
+        }
+      },
+      "newNotesFolder": "",
+      "views": [
+        {
+          "config": {
+            "groupByField": "Type",
+            "checkField": "WorkInProgress",
+            "columns": {
+              "Tuto": {
+                "weight": 0,
+                "records": [
+                  "02.Areas/Tuto/Créer un Landscape.md"
+                ]
+              }
+            },
+            "includeFields": [
+              "Software",
+              "tags",
+              "DateCreation"
+            ]
+          },
+          "filter": {
+            "conjunction": "and",
+            "conditions": [
+              {
+                "field": "WorkInProgress",
+                "operator": "is-not-checked",
+                "enabled": false
+              },
+              {
+                "field": "WorkInProgress",
+                "operator": "is-checked",
+                "enabled": true
+              }
+            ]
+          },
+          "colors": {
+            "conditions": []
+          },
+          "sort": {
+            "criteria": [
+              {
+                "field": "DateCreation",
+                "order": "asc",
+                "enabled": true
+              }
+            ]
+          },
+          "id": "2eeb97d8-58cd-4f26-abf4-6c57b6c5895c",
+          "name": "Board",
+          "type": "board"
+        }
+      ],
+      "id": "8d2658a6-dea1-4580-95be-8c4c502b8246",
+      "name": "WritingNotes"
+    }
+  ],
+  "archives": [
+    {
+      "fieldConfig": {},
+      "defaultName": "",
+      "templates": [],
+      "excludedNotes": [],
+      "isDefault": false,
+      "dataSource": {
+        "kind": "folder",
+        "config": {
+          "path": "01.Projects/Projects - Demo Project",
+          "recursive": true
+        }
+      },
+      "newNotesFolder": "",
+      "views": [
+        {
+          "config": {
+            "fieldConfig": {},
+            "orderFields": [
+              "name",
+              "path",
+              "collab",
+              "due",
+              "image",
+              "published",
+              "status",
+              "tags",
+              "weight"
+            ]
+          },
+          "filter": {
+            "conjunction": "and",
+            "conditions": []
+          },
+          "colors": {
+            "conditions": []
+          },
+          "sort": {
+            "criteria": []
+          },
+          "id": "50f8e8d1-0fe3-4daf-b631-fe18ff52c0a2",
+          "name": "Table",
+          "type": "table"
+        },
+        {
+          "config": {},
+          "filter": {
+            "conjunction": "and",
+            "conditions": []
+          },
+          "colors": {
+            "conditions": []
+          },
+          "sort": {
+            "criteria": []
+          },
+          "id": "8978edc3-98aa-4081-86c1-6da36fd019f4",
+          "name": "Gallery",
+          "type": "gallery"
+        },
+        {
+          "config": {
+            "groupByField": "collab",
+            "checkField": "published"
+          },
+          "filter": {
+            "conjunction": "and",
+            "conditions": []
+          },
+          "colors": {
+            "conditions": []
+          },
+          "sort": {
+            "criteria": []
+          },
+          "id": "57dfd183-dd71-4995-a824-43365a50db67",
+          "name": "Board",
+          "type": "board"
+        }
+      ],
+      "id": "175fb9a8-f173-4b54-8c62-61d9f9e1a928",
+      "name": "Test"
+    }
+  ],
+  "preferences": {
+    "projectSizeLimit": 1000,
+    "frontmatter": {
+      "quoteStrings": "PLAIN"
+    },
+    "locale": {
+      "firstDayOfWeek": "default"
+    },
+    "commands": [],
+    "linkBehavior": "open-editor"
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "callouts": {
+    "custom": [
+      "shortcut",
+      "material"
+    ],
+    "settings": {
+      "shortcut": [
+        {
+          "changes": {
+            "icon": "lucide-keyboard"
+          }
+        },
+        {
+          "condition": {
+            "colorScheme": "light"
+          },
+          "changes": {
+            "color": "68, 255, 0"
+          }
+        },
+        {
+          "condition": {
+            "colorScheme": "dark"
+          },
+          "changes": {
+            "color": "41, 153, 0"
+          }
+        }
+      ],
+      "material": [
+        {
+          "changes": {
+            "icon": "lucide-message-square-share"
+          }
+        }
+      ]
+    }
+  },
+  "calloutDetection": {
+    "obsidian": true,
+    "theme": true,
+    "snippet": true
+  }
+}
