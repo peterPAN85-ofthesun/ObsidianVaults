@@ -17,3 +17,7 @@ Dernière modification : `=this.file.mtime`
 ## Cycle de vie des fichiers d'un projet Git
 
 ![[lifecycle.png]]
+Il existe deux types de fichiers dans un projet git :
+- Les fichiers `Tracked`, qui sont présent dans la snapshot du projet : donc les fichiers `Unmodified`,`Modified` ou `Staged`
+- Les fichiers `Untacked` qui correspond au reste, à savoir les fichiers créer localement sur la machine ou bien les fichiers qui ont été enlevés du projet
+
