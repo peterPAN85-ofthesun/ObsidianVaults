@@ -1,9 +1,12 @@
 ---
-Type: Material
-Inputs:
- -
-Outputs:
- -
-Effect:
+Type: Blueprint
+Legacy :
 ---
 
+| Variables | Descrptions |
+| --------- | ----------- |
+|           |             |
+
+| Fonctions | Descriptions |
+| --------- | ------------ |
+|           |              |
