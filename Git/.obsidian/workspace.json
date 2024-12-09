@@ -15,7 +15,7 @@
               "state": {
                 "file": "02.Areas/Tuto/Maintenir un projet Git.md",
                 "mode": "source",
-                "source": true
+                "source": false
               },
               "icon": "lucide-file",
               "title": "Maintenir un projet Git"
