@@ -6,6 +6,7 @@
       {
         "id": "04b084a23153b6a3",
         "type": "tabs",
+        "dimension": 66.84952978056427,
         "children": [
           {
             "id": "b231695db5c7325c",
@@ -15,7 +16,7 @@
               "state": {
                 "file": "02.Areas/Tuto/Configuration Git.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
               "title": "Configuration Git"
@@ -37,18 +38,20 @@
       {
         "id": "67760cf3a0a2f014",
         "type": "tabs",
+        "dimension": 33.15047021943573,
         "children": [
           {
             "id": "1503508ba7f6f99d",
             "type": "leaf",
             "state": {
-              "type": "diff-view",
+              "type": "markdown",
               "state": {
-                "file": "Git/02.Areas/Tuto/Configuration Git.md",
-                "staged": true
+                "file": "02.Areas/Tuto/Configuration Git.md",
+                "mode": "preview",
+                "source": false
               },
-              "icon": "git-pull-request",
-              "title": "Diff View (Configuration Git)"
+              "icon": "lucide-file",
+              "title": "Configuration Git"
             },
             "group": "b65a5c1cb20c367f"
           }
@@ -170,9 +173,11 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {},
+              "state": {
+                "file": "02.Areas/Tuto/Configuration Git.md"
+              },
               "icon": "lucide-list",
-              "title": "Plan"
+              "title": "Plan de Configuration Git"
             }
           },
           {
