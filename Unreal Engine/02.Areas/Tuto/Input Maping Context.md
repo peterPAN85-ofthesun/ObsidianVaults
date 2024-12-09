@@ -16,3 +16,10 @@ cssclasses:
 Créé : `=this.file.ctime`
 Dernière modification : `=this.file.mtime`
 
+# 1 - Créer une InputMap
+
+>[!Blueprint]
+>[[InputMapingContext]]
+
+![[04.Files/ScreenShot/Tuto/InputMapContext/InputMapingContext.png]]
+

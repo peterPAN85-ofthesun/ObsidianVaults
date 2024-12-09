@@ -1,6 +1,8 @@
 ---
 Type: Blueprint
 Legacy :
+ID : 
+tags:
 ---
 
 Legacy : 

@@ -1,6 +1,7 @@
 ---
 Type: Blueprint
 Legacy: Pawn
+ID : BP_
 ---
 
 Legacy : [[Pawn]]
