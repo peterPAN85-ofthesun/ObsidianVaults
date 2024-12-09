@@ -12,16 +12,11 @@
             "id": "b231695db5c7325c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Day Planners/2024-12-09.md",
-                "mode": "source",
-                "source": true
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "2024-12-09"
-            },
-            "group": "353288dc2966d58d"
+              "title": "Nouvel onglet"
+            }
           }
         ]
       },
@@ -30,21 +25,6 @@
         "type": "tabs",
         "dimension": 50.67849686847599,
         "children": [
-          {
-            "id": "2f2aa56623ae9301",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Day Planners/2024-12-09.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2024-12-09"
-            },
-            "group": "353288dc2966d58d"
-          },
           {
             "id": "da2793050a84aa73",
             "type": "leaf",
@@ -173,11 +153,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Day Planners/2024-12-09.md"
-              },
+              "state": {},
               "icon": "lucide-list",
-              "title": "Plan de 2024-12-09"
+              "title": "Plan"
             }
           },
           {
@@ -186,8 +164,8 @@
             "state": {
               "type": "advanced-tables-toolbar",
               "state": {},
-              "icon": "spreadsheet",
-              "title": "Advanced Tables"
+              "icon": "lucide-file",
+              "title": "Le module complémentaire n'est plus actif."
             }
           },
           {
@@ -214,8 +192,8 @@
             "state": {
               "type": "timeline",
               "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Day Planner Timeline"
+              "icon": "lucide-file",
+              "title": "Le module complémentaire n'est plus actif."
             }
           },
           {
@@ -251,12 +229,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "2f2aa56623ae9301",
+  "active": "da2793050a84aa73",
   "lastOpenFiles": [
-    "03.Ressources/Templates/Template - NOTE.md",
-    "Day Planners/2024-12-09.md",
     "Day Planners/2024-12-08.md",
     "Day Planners/2024-11-30.md",
+    "Day Planners/2024-12-09.md",
+    "03.Ressources/Templates/Template - NOTE.md",
     "01.Projects/Projects - Demo Project/5 Mistakes I Made When I Started Using Obsidian.md",
     "01.Projects/Projects - Demo Project/The Best Notes You'll Ever Make.md",
     "01.Projects/Projects - Demo Project/The Easiest Way to Start Taking Notes.md",
