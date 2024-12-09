@@ -60,3 +60,15 @@ $ git config user.name
 John Doe
 ```
 
+## Pour enregistrer les ID Github
+
+D'abord :
+```bash
+git config --global credential.helper store
+```
+
+Puis entrer une commande qui demande les login
+```bash
+git pull
+```
+
