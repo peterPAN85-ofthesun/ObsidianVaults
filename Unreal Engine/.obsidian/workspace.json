@@ -13,27 +13,35 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02.Areas/Tuto/Sans titre.md",
+                "file": "02.Areas/Wiki/Shortcut/ShortCut List.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Sans titre"
-            }
-          },
+              "title": "ShortCut List"
+            },
+            "group": "5f9104d1a92fec4d"
+          }
+        ]
+      },
+      {
+        "id": "93d2d7f4edea0701",
+        "type": "tabs",
+        "children": [
           {
-            "id": "2af29df5cdcb6553",
+            "id": "dc8f63d326cf2613",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Day Planners/2024-12-08.md",
-                "mode": "source",
+                "file": "02.Areas/Wiki/Shortcut/ShortCut List.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2024-12-08"
-            }
+              "title": "ShortCut List"
+            },
+            "group": "5f9104d1a92fec4d"
           }
         ]
       }
@@ -154,10 +162,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02.Areas/Tuto/Sans titre.md"
+                "file": "02.Areas/Wiki/Shortcut/ShortCut List.md"
               },
               "icon": "lucide-list",
-              "title": "Plan de Sans titre"
+              "title": "Plan de ShortCut List"
             }
           },
           {
@@ -224,9 +232,14 @@
   },
   "active": "2baa81cba12bfddf",
   "lastOpenFiles": [
+    "02.Areas/Wiki/Shortcut/List/PlayGame.md",
+    "02.Areas/Tuto/Input Maping.md",
+    "04.Files/ScreenShot/Tuto/InputMaping/BPmapEnhancedInput.png",
+    "04.Files/ScreenShot/Tuto/InputMaping",
+    "04.Files/ScreenShot/Tuto/Nouveau dossier",
     "Day Planners/2024-12-09.md",
+    "02.Areas/Wiki/Blueprint",
     "HomePage.md",
-    "02.Areas/Tuto/Sans titre.md",
     "02.Areas/Tuto/Créer un Landscape.md",
     "02.Areas/Wiki/Material/Material List.md",
     "02.Areas/Wiki/Shortcut/ShortCut List.md",
@@ -246,7 +259,6 @@
     "04.Files/ScreenShot/Wiki/Material/LandscapeLayerBlend/Properties.png",
     "04.Files/ScreenShot/Tuto/CréerUnLandscape/Properties.png",
     "04.Files/ScreenShot/Tuto/CréerUnLandscape/Node.png",
-    "04.Files/ScreenShot/Wiki/Material/LandscapeLayerBlend/Node.png",
     "03.Ressources/Templates/Template - MATERIAL.md",
     "02.Areas/Wiki/Shortcut/List/Sculpt Landscape - remove.md",
     "04.Files/ScreenShot/Wiki/Material/LandscapeLayerBlend",
@@ -256,19 +268,15 @@
     "04.Files/ScreenShot/Nouveau dossier",
     "02.Areas/Wiki/Shortcut/List/Splines Landscape - add point.md",
     "03.Ressources/Templates/Template - WIKILIST.md",
-    "02.Areas/Wiki/Material/List",
     "03.Ressources/Templates/Template - SHORTCUT.md",
     "03.Ressources/Templates/Template - TUTO.md",
     "03.Ressources/Templates/Template - DAY PLANNERS.md",
     "03.Ressources/Templates/Template - NOTE.md",
-    "02.Areas/Wiki/Material",
-    "02.Areas/Wiki",
     "02.Areas/Wiki/Shortcut/List/Turn to SelectionMode.md",
     "03.Ressources/Exemple Obsidian/Plugin Dataview.md",
     "01.Projects/Projects - Demo Project/5 Mistakes I Made When I Started Using Obsidian.md",
     "01.Projects/Projects - Demo Project/The Best Notes You'll Ever Make.md",
     "01.Projects/Projects - Demo Project/The Easiest Way to Start Taking Notes.md",
-    "01.Projects/Projects - Demo Project/What I Learned From Taking 15,000 Notes.md",
-    "01.Projects/Projects - Demo Project/Why You Should Be Taking More Notes.md"
+    "01.Projects/Projects - Demo Project/What I Learned From Taking 15,000 Notes.md"
   ]
 }
