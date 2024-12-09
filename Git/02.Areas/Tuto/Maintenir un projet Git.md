@@ -32,4 +32,10 @@ Pour voir les différences entre la version `Staged` et la version `Modified` :
 ```bash
 $ git diff
 ```
- salut
+
+## Pour créer un commit
+
+```bash
+$ git commit -m "Story 182: fix benchmarks for speed"
+```
+
