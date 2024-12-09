@@ -1,14 +1,13 @@
 ---
-banner: "![[Unreal-Engine-5.webp]]"
-Software: Unreal Engine
-Version: v5.5
+banner: "![[GitLogo.png]]"
+Software: Git
+Version: 
 Type: Tuto
-Auteur: "PeterPan"
-DateCreation:
-WorkInProgress: true
+Auteur: PeterPan
+DateCreation: 
+WorkInProgress: false
 tags: 
-Sources:
- -
+Sources: 
 cssclasses:
   - show_properties
 ---

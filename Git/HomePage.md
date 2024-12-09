@@ -1,6 +1,7 @@
 ---
-banner: "![[project_management_coursefees.avif]]"
+banner: "![[GitLogo.png]]"
 cssclasses:
   - hide_properties
-banner_y: 0.53
+banner_y: 0.63334
 ---
+Git : https://git-scm.com/

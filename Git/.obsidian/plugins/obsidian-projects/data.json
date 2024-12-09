@@ -83,6 +83,61 @@
       ],
       "id": "175fb9a8-f173-4b54-8c62-61d9f9e1a928",
       "name": "Test"
+    },
+    {
+      "fieldConfig": {},
+      "defaultName": "",
+      "templates": [
+        ""
+      ],
+      "excludedNotes": [],
+      "isDefault": true,
+      "dataSource": {
+        "kind": "folder",
+        "config": {
+          "path": "02.Areas",
+          "recursive": true
+        }
+      },
+      "newNotesFolder": "",
+      "views": [
+        {
+          "config": {
+            "checkField": "WorkInProgress",
+            "groupByField": "Type",
+            "includeFields": [
+              "path",
+              "tags"
+            ]
+          },
+          "filter": {
+            "conjunction": "or",
+            "conditions": [
+              {
+                "field": "WorkInProgress",
+                "operator": "is-not-checked",
+                "enabled": true
+              },
+              {
+                "field": "WorkInProgress",
+                "operator": "is-checked",
+                "enabled": false
+              }
+            ]
+          },
+          "colors": {
+            "conditions": []
+          },
+          "sort": {
+            "criteria": []
+          },
+          "id": "e8b2351c-6de3-4a01-93d2-eeff8cc21bdc",
+          "name": "Board",
+          "type": "board"
+        }
+      ],
+      "id": "a57997b2-0165-445f-8f5c-3540af553f87",
+      "name": "WritingNotes"
     }
   ],
   "archives": [],
