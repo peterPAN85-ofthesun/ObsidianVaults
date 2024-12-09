@@ -9,10 +9,32 @@ WorkInProgress: false
 tags:
   - Setup
   - Project
-Sources: 
+Sources: https://git-scm.com/book/en/v2/Getting-Started-First-Time-Git-Setup
 cssclasses:
   - show_properties
 ---
 Créé : `=this.file.ctime`
 Dernière modification : `=this.file.mtime`
+
+## Ouvrir le dossier projet
+
+```bash
+$ cd /home/user/my_project
+```
+
+## Initialiser la structure du projet git
+
+Création du dossier `.git` :
+
+```bash
+$ git init
+```
+
+## Pour ajouter des fichiers déjà existant dans le projet
+
+```bash
+$ git add *.c
+$ git add LICENSE
+$ git commit -m 'Initial project version'
+```
 
