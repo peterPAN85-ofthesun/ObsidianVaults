@@ -30,7 +30,7 @@ Création du dossier `.git` :
 $ git init
 ```
 
-## Pour ajouter des fichiers déjà existant dans le projet
+## Pour ajouter des fichiers déjà existants dans le projet
 
 ```bash
 $ git add *.c
@@ -38,3 +38,17 @@ $ git add LICENSE
 $ git commit -m 'Initial project version'
 ```
 
+
+## Pour cloner le répertoire git en ligne
+
+```bash
+$ git clone https://github.com/libgit2/libgit2
+```
+
+>[!Note]
+>On peut donner un nom personnalisé au nouveau projet cloné :
+
+
+```bash
+$ git clone https://github.com/libgit2/libgit2 mylibgit
+```
