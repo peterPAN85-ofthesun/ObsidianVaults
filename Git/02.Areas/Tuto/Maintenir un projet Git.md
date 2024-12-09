@@ -33,12 +33,6 @@ Pour voir les différences entre la version `Staged` et la version `Modified` :
 $ git diff
 ```
 
-Pour créer un commit
-
-```bash
-$ git commit -m "Story 182: fix benchmarks for speed"
-```
-
 Pour supprimer un fichier 
 
 ```bash
@@ -55,5 +49,11 @@ Pour ajouter un fichier
 
 ```bash
 $ git add README
+```
+
+Pour créer un commit
+
+```bash
+$ git commit -m "Story 182: fix benchmarks for speed"
 ```
 

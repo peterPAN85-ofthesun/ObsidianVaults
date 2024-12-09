@@ -38,6 +38,12 @@ $ git add LICENSE
 $ git commit -m 'Initial project version'
 ```
 
+On configure un dépôt remote :
+
+```bash
+git remote add origin https://github.com/user/MonProjetTest
+```
+
 
 ## Pour cloner le répertoire git en ligne
 
