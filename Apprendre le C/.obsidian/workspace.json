@@ -1,0 +1,151 @@
+{
+  "main": {
+    "id": "5a03ec304383fa28",
+    "type": "split",
+    "children": [
+      {
+        "id": "1852755cd9ea3be9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e001554b223c77d5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Les Bases/Les Bases.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8b88e3d41aef40b6",
+    "type": "split",
+    "children": [
+      {
+        "id": "a46049d56d5149a2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "80f94d80d81d5631",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e74dd3430a843b9b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "c8a33c625f9cd39a",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "b24147e8b41ab08d",
+    "type": "split",
+    "children": [
+      {
+        "id": "accd2ed84cc0f09d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2481c7bbeccbf3cf",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Les Bases/Les Bases.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ef3640dc7bba9239",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Les Bases/Les Bases.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "60afa8fa4ccd78e2",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "4f27d4bcfc783621",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Les Bases/Les Bases.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Ouvrir le sélecteur rapide": false,
+      "graph:Ouvrir la vue graphique": false,
+      "canvas:Créer une nouvelle toile": false,
+      "daily-notes:Ouvrir la note quotidienne": false,
+      "templates:Insérer le modèle": false,
+      "command-palette:Ouvrir la palette de commandes": false
+    }
+  },
+  "active": "e001554b223c77d5",
+  "lastOpenFiles": []
+}
