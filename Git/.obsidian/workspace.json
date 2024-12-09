@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02.Areas/Tuto/Maintenir un projet Git.md",
+                "file": "02.Areas/Tuto/Configuration Git.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Maintenir un projet Git"
+              "title": "Configuration Git"
             },
             "group": "b65a5c1cb20c367f"
           },
@@ -44,12 +44,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02.Areas/Tuto/Maintenir un projet Git.md",
+                "file": "02.Areas/Tuto/Configuration Git.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Maintenir un projet Git"
+              "title": "Configuration Git"
             },
             "group": "b65a5c1cb20c367f"
           }
@@ -172,10 +172,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02.Areas/Tuto/Maintenir un projet Git.md"
+                "file": "02.Areas/Tuto/Configuration Git.md"
               },
               "icon": "lucide-list",
-              "title": "Plan de Maintenir un projet Git"
+              "title": "Plan de Configuration Git"
             }
           },
           {
