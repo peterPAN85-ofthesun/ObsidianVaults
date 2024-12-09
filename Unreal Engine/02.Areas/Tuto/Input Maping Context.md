@@ -23,3 +23,6 @@ Dernière modification : `=this.file.mtime`
 
 ![[04.Files/ScreenShot/Tuto/InputMapContext/InputMapingContext.png]]
 
+Ce Bluerpint est une sorte de tableau associant des entrées physiques, comme les touches d'un clavier ou les joysticks d'une manette , à une action, comme avancer ou sauter.
+
+QUELQUES TIPS

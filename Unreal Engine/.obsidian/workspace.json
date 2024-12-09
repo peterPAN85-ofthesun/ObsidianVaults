@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02.Areas/Wiki/Blueprint/List/InputMapingContext.md",
+                "file": "02.Areas/Tuto/Input Maping Context.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "InputMapingContext"
+              "title": "Input Maping Context"
             },
             "group": "5f9104d1a92fec4d"
           }
@@ -34,12 +34,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02.Areas/Wiki/Blueprint/List/InputMapingContext.md",
+                "file": "02.Areas/Tuto/Input Maping Context.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "InputMapingContext"
+              "title": "Input Maping Context"
             },
             "group": "5f9104d1a92fec4d"
           }
@@ -162,10 +162,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02.Areas/Wiki/Blueprint/List/InputMapingContext.md"
+                "file": "02.Areas/Tuto/Input Maping Context.md"
               },
               "icon": "lucide-list",
-              "title": "Plan de InputMapingContext"
+              "title": "Plan de Input Maping Context"
             }
           },
           {
@@ -230,10 +230,10 @@
       "callout-manager:Insert Callout": false
     }
   },
-  "active": "dc8f63d326cf2613",
+  "active": "2baa81cba12bfddf",
   "lastOpenFiles": [
-    "02.Areas/Tuto/Input Maping Context.md",
     "02.Areas/Wiki/Blueprint/List/InputMapingContext.md",
+    "02.Areas/Tuto/Input Maping Context.md",
     "04.Files/ScreenShot/Tuto/InputMapContext/InputMapingContext.png",
     "04.Files/ScreenShot/Tuto/InputMapContext/BPmapEnhancedInput.png",
     "04.Files/ScreenShot/Tuto/InputMapContext",
