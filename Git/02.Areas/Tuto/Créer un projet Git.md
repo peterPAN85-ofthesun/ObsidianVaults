@@ -5,7 +5,7 @@ Version:
 Type: Tuto
 Auteur: PeterPan
 DateCreation: 2024-12-09
-WorkInProgress: false
+WorkInProgress: true
 tags:
   - Setup
   - Project
@@ -52,3 +52,4 @@ $ git clone https://github.com/libgit2/libgit2
 ```bash
 $ git clone https://github.com/libgit2/libgit2 mylibgit
 ```
+

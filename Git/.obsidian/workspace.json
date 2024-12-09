@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02.Areas/Tuto/Créer un projet Git.md",
+                "file": "02.Areas/Tuto/Maintenir un projet Git.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Créer un projet Git"
+              "title": "Maintenir un projet Git"
             },
             "group": "b65a5c1cb20c367f"
           },
@@ -44,12 +44,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02.Areas/Tuto/Créer un projet Git.md",
+                "file": "02.Areas/Tuto/Maintenir un projet Git.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Créer un projet Git"
+              "title": "Maintenir un projet Git"
             },
             "group": "b65a5c1cb20c367f"
           }
@@ -172,10 +172,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02.Areas/Tuto/Créer un projet Git.md"
+                "file": "02.Areas/Tuto/Maintenir un projet Git.md"
               },
               "icon": "lucide-list",
-              "title": "Plan de Créer un projet Git"
+              "title": "Plan de Maintenir un projet Git"
             }
           },
           {
@@ -251,8 +251,14 @@
   },
   "active": "b231695db5c7325c",
   "lastOpenFiles": [
+    "04.Files/Tuto/Maintenir un projet Git/lifecycle.png",
+    "04.Files/Tuto/Maintenir un projet Git",
+    "04.Files/Tuto/Nouveau dossier",
+    "04.Files/Tuto",
+    "04.Files/Nouveau dossier",
     "02.Areas/Tuto/Configuration Git.md",
     "02.Areas/Tuto/Créer un projet Git.md",
+    "02.Areas/Tuto/Maintenir un projet Git.md",
     "HomePage.md",
     "03.Ressources/Templates/Template - TUTO.md",
     "04.Files/Banners/GitLogo.png",
@@ -282,12 +288,6 @@
     "Day Planners/2024-12-06.md",
     "02.Areas/Journal/2024-11-30.md",
     "Day Planners",
-    "02.Areas/Journal/2024-11-21.md",
-    "01.Projects/Projects - Demo Project",
-    "Bienvenue.md",
-    "04.Files/CSS/Properties.css",
-    "04.Files/CSS",
-    "04.Files/Nouveau dossier",
-    "02.Areas/Journal"
+    "01.Projects/Projects - Demo Project"
   ]
 }
