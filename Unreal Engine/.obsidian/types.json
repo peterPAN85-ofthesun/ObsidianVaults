@@ -10,6 +10,7 @@
     "Effect": "text",
     "CurrentWindow": "text",
     "Internal Sources": "multitext",
-    "CurrentMode": "text"
+    "CurrentMode": "text",
+    "Inputs": "multitext"
   }
 }
