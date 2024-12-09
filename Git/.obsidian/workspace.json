@@ -28,8 +28,8 @@
             "state": {
               "type": "obsidian-projects",
               "state": {},
-              "icon": "projects-icon",
-              "title": "Projects"
+              "icon": "lucide-file",
+              "title": "Le module complémentaire n'est plus actif."
             }
           }
         ]
