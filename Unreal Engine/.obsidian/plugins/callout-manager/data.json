@@ -2,7 +2,8 @@
   "callouts": {
     "custom": [
       "shortcut",
-      "material"
+      "material",
+      "blueprint"
     ],
     "settings": {
       "shortcut": [
@@ -32,6 +33,13 @@
         {
           "changes": {
             "icon": "lucide-message-square-share"
+          }
+        }
+      ],
+      "blueprint": [
+        {
+          "changes": {
+            "icon": "lucide-bot-message-square"
           }
         }
       ]
