@@ -1,5 +1,8 @@
 ---
 banner: "![[GitLogo.png]]"
+---
+---
+banner: "![[GitLogo.png]]"
 Software: Git
 Version: 
 Type: Tuto

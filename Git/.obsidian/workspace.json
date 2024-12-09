@@ -42,14 +42,13 @@
             "id": "1503508ba7f6f99d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "diff-view",
               "state": {
-                "file": "02.Areas/Tuto/Configuration Git.md",
-                "mode": "preview",
-                "source": false
+                "file": "Git/02.Areas/Tuto/Configuration Git.md",
+                "staged": true
               },
-              "icon": "lucide-file",
-              "title": "Configuration Git"
+              "icon": "git-pull-request",
+              "title": "Diff View (Configuration Git)"
             },
             "group": "b65a5c1cb20c367f"
           }
@@ -171,11 +170,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "02.Areas/Tuto/Configuration Git.md"
-              },
+              "state": {},
               "icon": "lucide-list",
-              "title": "Plan de Configuration Git"
+              "title": "Plan"
             }
           },
           {
@@ -249,10 +246,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "b231695db5c7325c",
+  "active": "1503508ba7f6f99d",
   "lastOpenFiles": [
-    "02.Areas/Tuto/Créer un projet Git.md",
     "02.Areas/Tuto/Configuration Git.md",
+    "02.Areas/Tuto/Créer un projet Git.md",
     "02.Areas/Tuto/Maintenir un projet Git.md",
     "conflict-files-obsidian-git.md",
     "04.Files/Tuto/Maintenir un projet Git/lifecycle.png",
