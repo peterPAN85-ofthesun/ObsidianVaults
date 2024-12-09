@@ -32,3 +32,4 @@ Pour voir les différences entre la version `Staged` et la version `Modified` :
 ```bash
 $ git diff
 ```
+ salut
