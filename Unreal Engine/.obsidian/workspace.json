@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02.Areas/Tuto/Input Maping Context.md",
+                "file": "02.Areas/Wiki/Blueprint/Class/List/InputAction.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Input Maping Context"
+              "title": "InputAction"
             },
             "group": "efc0dc034d93b078"
           }
@@ -34,12 +34,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02.Areas/Tuto/Input Maping Context.md",
+                "file": "02.Areas/Wiki/Blueprint/Class/List/InputAction.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Input Maping Context"
+              "title": "InputAction"
             },
             "group": "efc0dc034d93b078"
           }
@@ -162,10 +162,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02.Areas/Tuto/Input Maping Context.md"
+                "file": "02.Areas/Wiki/Blueprint/Class/List/InputAction.md"
               },
               "icon": "lucide-list",
-              "title": "Plan de Input Maping Context"
+              "title": "Plan de InputAction"
             }
           },
           {
@@ -230,22 +230,28 @@
       "callout-manager:Insert Callout": false
     }
   },
-  "active": "dc8f63d326cf2613",
+  "active": "dec49ebf2e917efb",
   "lastOpenFiles": [
-    "04.Files/ScreenShot/Tuto/InputMapContext/ImplémentationBP.png",
-    "02.Areas/Wiki/Blueprint/List/InputAction.md",
+    "02.Areas/Wiki/Blueprint/Class/List/InputMapingContext.md",
+    "02.Areas/Wiki/Blueprint/Class/List/InputAction.md",
+    "02.Areas/Wiki/Blueprint/Class/List/Character.md",
+    "02.Areas/Wiki/Blueprint/Class/List/Actor.md",
+    "02.Areas/Wiki/Blueprint/Class/List/Pawn.md",
+    "02.Areas/Wiki/Blueprint/Class List.md",
+    "02.Areas/Wiki/Blueprint/Class",
+    "02.Areas/Wiki/Material/Material List.md",
     "02.Areas/Tuto/Input Maping Context.md",
+    "02.Areas/Tuto/Créer un Landscape.md",
+    "04.Files/ScreenShot/Tuto/InputMapContext/ImplémentationBP.png",
     "04.Files/ScreenShot/Wiki/Blueprint/InputAction/InputAction.png",
     "04.Files/ScreenShot/Wiki/Blueprint/InputAction",
     "04.Files/ScreenShot/Wiki/Blueprint/Nouveau dossier",
     "04.Files/ScreenShot/Tuto/InputMapContext/InputAction.png",
-    "02.Areas/Wiki/Blueprint/List/InputMapingContext.md",
     "HomePage.md",
     "03.Ressources/Exemple Obsidian/Plugin Dataview.md",
     "03.Ressources/Exemple Obsidian/Fonctions et variables utiles.md",
     "conflict-files-obsidian-git.md",
     "Day Planners/2024-12-10.md",
-    "02.Areas/Tuto/Créer un Landscape.md",
     "04.Files/ScreenShot/Tuto/InputMapContext/InputMapingContext.png",
     "04.Files/ScreenShot/Tuto/InputMapContext/BPmapEnhancedInput.png",
     "04.Files/ScreenShot/Tuto/InputMapContext",
@@ -256,13 +262,9 @@
     "04.Files/ScreenShot/Tuto/InputMaping/InputMapingContext.png",
     "04.Files/ScreenShot/Tuto/InputMaping/Capture d'écran 2024-12-09 214904.png",
     "03.Ressources/Templates/Template - BLUEPRINT.md",
-    "02.Areas/Wiki/Blueprint/List/Pawn.md",
-    "02.Areas/Wiki/Blueprint/List/Character.md",
-    "02.Areas/Wiki/Blueprint/List/Actor.md",
-    "02.Areas/Wiki/Blueprint/Blueprint List.md",
     "03.Ressources/Templates/Template - MATERIAL.md",
     "02.Areas/Wiki/Shortcut/List/Sculpt Landscape - remove.md",
-    "02.Areas/Wiki/Blueprint/List",
+    "02.Areas/Wiki/Blueprint/Class/List",
     "Day Planners/2024-12-09.md",
     "02.Areas/Wiki/Blueprint/Li.md",
     "02.Areas/Wiki/Shortcut/ShortCut List.md",
@@ -270,13 +272,10 @@
     "04.Files/ScreenShot/Tuto/InputMaping/BPmapEnhancedInput.png",
     "04.Files/ScreenShot/Tuto/InputMaping",
     "04.Files/ScreenShot/Tuto/Nouveau dossier",
-    "02.Areas/Wiki/Blueprint",
-    "02.Areas/Wiki/Material/Material List.md",
     "Day Planners/2024-12-08.md",
     "02.Areas/Wiki/Material/List/Constant3vector.md",
     "02.Areas/Wiki/Material/List/LandscapeLayerBlend.md",
     "02.Areas/Wiki/Shortcut/List/Turn to LandscapeMode.md",
-    "04.Files/ScreenShot/Tuto/CréerUnLandscape/Peinture.png",
-    "04.Files/ScreenShot/Tuto/CréerUnLandscape/AssignLayer2.png"
+    "04.Files/ScreenShot/Tuto/CréerUnLandscape/Peinture.png"
   ]
 }

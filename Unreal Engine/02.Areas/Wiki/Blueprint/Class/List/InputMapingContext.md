@@ -1,5 +1,5 @@
 ---
-Type: Blueprint
+Type: BlueprintClass
 Legacy: 
 ID: IMC_
 tags:

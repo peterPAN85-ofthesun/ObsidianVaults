@@ -1,8 +1,9 @@
 ---
-Type: Blueprint
+Type: BlueprintClass
 Legacy: 
 ID: IA_
-tags: Input
+tags:
+  - Input
 ---
 
 Actions pouvant être déclenchées par un Input

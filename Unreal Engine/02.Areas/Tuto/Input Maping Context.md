@@ -5,7 +5,7 @@ Version: v5.5
 Type: Tuto
 Auteur: PeterPan
 DateCreation: 2024-12-30
-WorkInProgress: false
+WorkInProgress: true
 tags:
   - Input
 Sources: 
@@ -39,5 +39,8 @@ QUELQUES TIPS :
 # 3 - Implémenter le Blueprint
 
 
-Dans le blueprint "contrôlé par le joueur", on associe  
+Dans le blueprint "contrôlé par le joueur", on associe à chaque changement de controller un InputMapContext
 ![[BPmapEnhancedInput.png]]
+
+On peut maintenant implémenter des events Custom associé aux InputAction listées dans l'InputMapContext
+![[ImplémentationBP.png]]
