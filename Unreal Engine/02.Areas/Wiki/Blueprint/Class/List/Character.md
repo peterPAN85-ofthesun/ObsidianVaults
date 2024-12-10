@@ -1,10 +1,10 @@
 ---
-Type: Blueprint
-Legacy: Actor
-ID : BP_
+Type: BlueprintClass
+Legacy: Pawn
+ID: BP_
 ---
 
-Legacy : [[Actor]]
+Legacy : [[Pawn]]
 
 | Variables | Descrptions |
 | --------- | ----------- |

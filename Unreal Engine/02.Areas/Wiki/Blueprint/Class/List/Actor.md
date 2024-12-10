@@ -1,7 +1,7 @@
 ---
-Type: Blueprint
-Legacy:
-ID : BP_
+Type: BlueprintClass
+Legacy: 
+ID: BP_
 ---
 
 Legacy : 
