@@ -15,14 +15,29 @@
               "state": {
                 "file": "02.Areas/Wiki/Blueprint/Class/List/Actor.md",
                 "mode": "source",
-                "source": true
+                "source": false
               },
               "icon": "lucide-file",
               "title": "Actor"
             },
             "group": "efc0dc034d93b078"
+          },
+          {
+            "id": "8ca2b4863666c9b1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Day Planners/2024-12-13.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2024-12-13"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "0f6143d9b54a190d",
@@ -162,10 +177,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02.Areas/Wiki/Blueprint/Class/List/Actor.md"
+                "file": "Day Planners/2024-12-13.md"
               },
               "icon": "lucide-list",
-              "title": "Plan de Actor"
+              "title": "Plan de 2024-12-13"
             }
           },
           {
@@ -230,17 +245,19 @@
       "callout-manager:Insert Callout": false
     }
   },
-  "active": "f629635ef921f327",
+  "active": "8ca2b4863666c9b1",
   "lastOpenFiles": [
+    "02.Areas/Tuto/Input Maping Context.md",
+    "Day Planners/2024-12-13.md",
+    "conflict-files-obsidian-git.md",
+    "02.Areas/Wiki/Blueprint/Class/List/Actor.md",
     "02.Areas/Wiki/Blueprint/Class/List/Character.md",
     "02.Areas/Wiki/Blueprint/Class/List/Pawn.md",
-    "02.Areas/Wiki/Blueprint/Class/List/Actor.md",
     "02.Areas/Wiki/Blueprint/Class/List/InputAction.md",
     "02.Areas/Wiki/Blueprint/Class/List/InputMapingContext.md",
     "02.Areas/Wiki/Blueprint/Blueprint List.md",
     "02.Areas/Wiki/Blueprint/Class",
     "02.Areas/Wiki/Material/Material List.md",
-    "02.Areas/Tuto/Input Maping Context.md",
     "02.Areas/Tuto/Créer un Landscape.md",
     "04.Files/ScreenShot/Tuto/InputMapContext/ImplémentationBP.png",
     "04.Files/ScreenShot/Wiki/Blueprint/InputAction/InputAction.png",
@@ -250,7 +267,6 @@
     "HomePage.md",
     "03.Ressources/Exemple Obsidian/Plugin Dataview.md",
     "03.Ressources/Exemple Obsidian/Fonctions et variables utiles.md",
-    "conflict-files-obsidian-git.md",
     "Day Planners/2024-12-10.md",
     "04.Files/ScreenShot/Tuto/InputMapContext/InputMapingContext.png",
     "04.Files/ScreenShot/Tuto/InputMapContext/BPmapEnhancedInput.png",
