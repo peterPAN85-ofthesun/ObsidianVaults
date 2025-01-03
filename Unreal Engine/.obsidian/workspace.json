@@ -13,31 +13,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02.Areas/Wiki/Blueprint/Class/List/Actor.md",
+                "file": "02.Areas/Tuto/Créer un projet Unreal Engine.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Actor"
+              "title": "Créer un projet Unreal Engine"
             },
             "group": "efc0dc034d93b078"
-          },
-          {
-            "id": "8ca2b4863666c9b1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Day Planners/2024-12-13.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2024-12-13"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "0f6143d9b54a190d",
@@ -49,12 +34,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02.Areas/Wiki/Blueprint/Class/List/Actor.md",
-                "mode": "source",
+                "file": "02.Areas/Tuto/Créer un projet Unreal Engine.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Actor"
+              "title": "Créer un projet Unreal Engine"
             },
             "group": "efc0dc034d93b078"
           }
@@ -177,10 +162,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Day Planners/2024-12-13.md"
+                "file": "02.Areas/Tuto/Créer un projet Unreal Engine.md"
               },
               "icon": "lucide-list",
-              "title": "Plan de 2024-12-13"
+              "title": "Plan de Créer un projet Unreal Engine"
             }
           },
           {
@@ -245,8 +230,13 @@
       "callout-manager:Insert Callout": false
     }
   },
-  "active": "8ca2b4863666c9b1",
+  "active": "dc8f63d326cf2613",
   "lastOpenFiles": [
+    "Day Planners/2025-01-03.md",
+    "02.Areas/Tuto/Créer un projet Unreal Engine.md",
+    "Day Planners/2024-12-16.md",
+    "Day Planners/2024-12-14.md",
+    "HomePage.md",
     "02.Areas/Wiki/Blueprint/Class/List/Actor.md",
     "Day Planners/2024-12-13.md",
     "02.Areas/Tuto/Input Maping Context.md",
@@ -264,7 +254,6 @@
     "04.Files/ScreenShot/Wiki/Blueprint/InputAction",
     "04.Files/ScreenShot/Wiki/Blueprint/Nouveau dossier",
     "04.Files/ScreenShot/Tuto/InputMapContext/InputAction.png",
-    "HomePage.md",
     "03.Ressources/Exemple Obsidian/Plugin Dataview.md",
     "03.Ressources/Exemple Obsidian/Fonctions et variables utiles.md",
     "Day Planners/2024-12-10.md",
@@ -288,10 +277,6 @@
     "04.Files/ScreenShot/Tuto/InputMaping/BPmapEnhancedInput.png",
     "04.Files/ScreenShot/Tuto/InputMaping",
     "04.Files/ScreenShot/Tuto/Nouveau dossier",
-    "Day Planners/2024-12-08.md",
-    "02.Areas/Wiki/Material/List/Constant3vector.md",
-    "02.Areas/Wiki/Material/List/LandscapeLayerBlend.md",
-    "02.Areas/Wiki/Shortcut/List/Turn to LandscapeMode.md",
     "04.Files/ScreenShot/Tuto/CréerUnLandscape/Peinture.png"
   ]
 }
